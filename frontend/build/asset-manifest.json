@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb22f59f.chunk.css",
+    "main.js": "/static/js/main.b8dbc693.chunk.js",
+    "main.js.map": "/static/js/main.b8dbc693.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b3325d9b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b3325d9b.js.map",
+    "static/js/2.a3a26214.chunk.js": "/static/js/2.a3a26214.chunk.js",
+    "static/js/2.a3a26214.chunk.js.map": "/static/js/2.a3a26214.chunk.js.map",
+    "static/js/3.3989fcd6.chunk.js": "/static/js/3.3989fcd6.chunk.js",
+    "static/js/3.3989fcd6.chunk.js.map": "/static/js/3.3989fcd6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cb22f59f.chunk.css.map": "/static/css/main.cb22f59f.chunk.css.map",
+    "static/js/2.a3a26214.chunk.js.LICENSE.txt": "/static/js/2.a3a26214.chunk.js.LICENSE.txt",
+    "static/media/Profile.32d97272.png": "/static/media/Profile.32d97272.png",
+    "static/media/about-right-dec.793eb0c7.png": "/static/media/about-right-dec.793eb0c7.png",
+    "static/media/address.7179d941.jpg": "/static/media/address.7179d941.jpg",
+    "static/media/anywhere.50e2d4fe.jpg": "/static/media/anywhere.50e2d4fe.jpg",
+    "static/media/carecar.83f7e137.jpg": "/static/media/carecar.83f7e137.jpg",
+    "static/media/concatus.f0e68d3b.jpg": "/static/media/concatus.f0e68d3b.jpg",
+    "static/media/difficult.c5349238.jpg": "/static/media/difficult.c5349238.jpg",
+    "static/media/friends.f48fab61.jpg": "/static/media/friends.f48fab61.jpg",
+    "static/media/grant.fa6da659.jpg": "/static/media/grant.fa6da659.jpg",
+    "static/media/masterfixlogo.dee7a6fe.png": "/static/media/masterfixlogo.dee7a6fe.png",
+    "static/media/masterlogo.79361665.jpg": "/static/media/masterlogo.79361665.jpg",
+    "static/media/mission.acf1dc92.jpg": "/static/media/mission.acf1dc92.jpg",
+    "static/media/passion.2a47ca25.jpg": "/static/media/passion.2a47ca25.jpg",
+    "static/media/payment.dcf7d746.jpg": "/static/media/payment.dcf7d746.jpg",
+    "static/media/personalassistant.a2af3ad7.jpg": "/static/media/personalassistant.a2af3ad7.jpg",
+    "static/media/repair.22c7afc4.png": "/static/media/repair.22c7afc4.png",
+    "static/media/repair.f1bdd3ad.jpg": "/static/media/repair.f1bdd3ad.jpg",
+    "static/media/shop.4d5bfba1.jpg": "/static/media/shop.4d5bfba1.jpg",
+    "static/media/story.4f9d44d9.jpg": "/static/media/story.4f9d44d9.jpg",
+    "static/media/wheels.ae0e28b1.jpg": "/static/media/wheels.ae0e28b1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3325d9b.js",
+    "static/js/2.a3a26214.chunk.js",
+    "static/css/main.cb22f59f.chunk.css",
+    "static/js/main.b8dbc693.chunk.js"
+  ]
+}
