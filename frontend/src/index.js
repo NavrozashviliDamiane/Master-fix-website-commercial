@@ -10,8 +10,8 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
 /* STYLING */
-import "./index.css";
-import "./bootstrap.min.css";
+
+
 
 ReactDOM.render(
   <Provider store={store}>
