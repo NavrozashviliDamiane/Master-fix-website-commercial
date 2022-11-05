@@ -8,7 +8,8 @@ import store from "./store";
 /* COMPONENTS */
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-
+import "./index.css";
+import "./bootstrap.min.css";
 /* STYLING */
 
 
